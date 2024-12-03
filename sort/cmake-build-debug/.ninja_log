@@ -1,0 +1,24 @@
+# ninja log v6
+7	1167	7523368006350677	CMakeFiles/Courses.dir/main.cpp.obj	856c5dda1657947e
+16	624	7523355212987335	CMakeFiles/Courses.dir/countSort/countSort.cpp.obj	f80806443121a25a
+15	91	7523362331493173	CMakeFiles/Courses.dir/selectionSort/selectionSort.cpp.obj	c64acc74a165d1ad
+41	171	7523355213235801	CMakeFiles/Courses.dir/bucket/bucket.cpp.obj	316da4f4787d2049
+1167	1304	7523368017953896	Courses.exe	d3cc830a879c115c
+84	511	7523355213660866	CMakeFiles/Courses.dir/mergeSort/mergeSort.cpp.obj	529c4bb569043e2f
+2	241	7523538484861999	build.ninja	335683cf50f27b08
+15	92	7523347674179872	CMakeFiles/Courses.dir/bubbleSort/bubbleSort.cpp.obj	89d9f75bee155718
+57	198	7523355213391690	CMakeFiles/Courses.dir/insertion/inserionSort.cpp.obj	8ed1075af3109bd7
+26	662	7523355213079160	CMakeFiles/Courses.dir/radixSort/radixSort.cpp.obj	3b897114468f37ae
+15	270	7523363116938390	CMakeFiles/Courses.dir/TimSort/timSort.cpp.obj	13bca3365f34958f
+14	82	7523364899360583	CMakeFiles/Courses.dir/quickSort/quickSort.cpp.obj	13d283d647e198f4
+43	214	7523538597035187	CMakeFiles/Courses.dir/bucket/bucket.cpp.obj	1f8b4e7090b8f425
+80	218	7523538597396862	CMakeFiles/Courses.dir/bubbleSort/bubbleSort.cpp.obj	b88ee7b8663a5d48
+91	221	7523538597506558	CMakeFiles/Courses.dir/insertion/inserionSort.cpp.obj	9834ea71978b3939
+121	248	7523538597815735	CMakeFiles/Courses.dir/selectionSort/selectionSort.cpp.obj	d1f7687c4c4418f1
+180	305	7523538598406260	CMakeFiles/Courses.dir/quickSort/quickSort.cpp.obj	a83e5e594e9319e2
+139	493	7523538597985282	CMakeFiles/Courses.dir/TimSort/timSort.cpp.obj	927d106de45614ee
+105	505	7523538597646209	CMakeFiles/Courses.dir/mergeSort/mergeSort.cpp.obj	7b579576ad0883bb
+19	650	7523538596789314	CMakeFiles/Courses.dir/countSort/countSort.cpp.obj	6a7cde31c24cfda3
+28	657	7523538596879071	CMakeFiles/Courses.dir/radixSort/radixSort.cpp.obj	91abc65fb97842a3
+10	1386	7523538596698681	CMakeFiles/Courses.dir/main.cpp.obj	ef214a262b65bc5d
+1386	1530	7523538610454157	Courses.exe	d3cc830a879c115c
