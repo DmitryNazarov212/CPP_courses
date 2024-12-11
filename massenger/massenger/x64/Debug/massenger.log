@@ -1,0 +1,3 @@
+﻿  chat.cpp
+x64\Debug\user.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  massenger.vcxproj -> C:\Users\user\Desktop\C++\Courses\massenger\x64\Debug\massenger.exe
