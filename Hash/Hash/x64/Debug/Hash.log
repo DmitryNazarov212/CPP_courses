@@ -1,0 +1,12 @@
+﻿  chat.cpp
+  hashTableclosed.cpp
+  main.cpp
+C:\Users\user\Desktop\C++\Courses\Hash\Hash\main.cpp(15,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\C++\Courses\Hash\Hash\main.cpp(16,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\C++\Courses\Hash\Hash\main.cpp(18,125): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\C++\Courses\Hash\Hash\main.cpp(19,125): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\C++\Courses\Hash\Hash\main.cpp(24,125): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  sha1.cpp
+C:\Users\user\Desktop\C++\Courses\Hash\Hash\sha1.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Hash.vcxproj -> C:\Users\user\Desktop\C++\Courses\Hash\x64\Debug\Hash.exe
