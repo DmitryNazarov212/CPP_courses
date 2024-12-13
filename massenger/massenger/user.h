@@ -13,8 +13,8 @@ public:
 	User(const std::string& login, const std::string& password, const std::string& name)
 		: _login(login), _password(password), _name(name) {}
 
-	const std::string getLogin() const {return _login;}
-	const std::string getName() const { return _name; }
+	const std::string& getLogin() const {return _login;}
+	const std::string& getName() const { return _name; }
 	bool validatePassword(const std::string& password) const  { return _password == password; }
 
 	~User() = default;

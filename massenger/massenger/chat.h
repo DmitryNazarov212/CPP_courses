@@ -7,14 +7,69 @@
 class Chat
 {
 private:
-	std::vector<std::unique_ptr<User>> users;
+	std::vector<std::shared_ptr<Message>> message;
 public:
-
-	void registraion(const std::string& login, const std::string& password, const std::string& name);
-	void logIn(const std::string login, const std::string password);
-	
-	User& operator[](size_t index);
-	const User& operator[](size_t index) const;
-	void print();
-	size_t size() const { return users.size(); }
+	void sendMessage(std::shared_ptr<User> sender, std::shared_ptr<User> reciever, std::string text);
+	void getHistory(int senderIndex, int recieverIndex);
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//class Message
+//{
+//private:
+//    std::shared_ptr<User> sender; // Изменяем на shared_ptr  
+//    std::shared_ptr<User> receiver; // Изменяем на shared_ptr  
+//    std::string text;
+//
+//public:
+//    Message(std::shared_ptr<User> sender, const std::string& text, std::shared_ptr<User> receiver = nullptr)
+//        : sender(sender), receiver(receiver), text(text) {}
+//};
+//
+//class LocalChat {
+//private:
+//    std::vector<std::shared_ptr<Message>> messages; // Список сообщений в чате  
+//
+//public:
+//    // Метод для отправки сообщения  
+//    void sendMessage(std::shared_ptr<User> sender, std::shared_ptr<User> receiver, const std::string& text);
+//
+//    // Метод для получения всех сообщений  
+//    const std::vector<std::shared_ptr<Message>>& getMessages() const;
+//};
+//
+//class GroupChat
+//{
+//private:
+//	std::vector<std::shared_ptr<User>> participants;
+//public:
+//	void addParticipant(std::vector<std::shared_ptr<User>> users); //Добавление всех зарегестрированных пользователей
+//};

@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\messanger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\messanger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\messanger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F14FC6F1-3FA3-4DF1-8B09-0A78C48E33BE}|massenger\\massenger.vcxproj|solutionrelative:massenger\\messanger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,80 +58,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "message.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\message.cpp",
-              "RelativeDocumentMoniker": "massenger\\message.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\message.cpp",
-              "RelativeToolTip": "massenger\\message.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T19:59:44.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "message.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\message.h",
               "RelativeDocumentMoniker": "massenger\\message.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\message.h",
               "RelativeToolTip": "massenger\\message.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-11T19:58:56.025Z",
+              "WhenOpened": "2024-12-12T16:50:45.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\main.cpp",
+              "RelativeDocumentMoniker": "massenger\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\main.cpp",
+              "RelativeToolTip": "massenger\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T18:58:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "messanger.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\messanger.h",
+              "RelativeDocumentMoniker": "massenger\\messanger.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\messanger.h",
+              "RelativeToolTip": "massenger\\messanger.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T07:39:09.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "messanger.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\messanger.cpp",
+              "RelativeDocumentMoniker": "massenger\\messanger.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\messanger.cpp",
+              "RelativeToolTip": "massenger\\messanger.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T07:53:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "chat.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\chat.cpp",
               "RelativeDocumentMoniker": "massenger\\chat.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\chat.cpp",
               "RelativeToolTip": "massenger\\chat.cpp",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T19:22:08.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "chat.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\chat.h",
               "RelativeDocumentMoniker": "massenger\\chat.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\chat.h",
               "RelativeToolTip": "massenger\\chat.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-11T19:19:55.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "user.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\user.h",
               "RelativeDocumentMoniker": "massenger\\user.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\user.h",
               "RelativeToolTip": "massenger\\user.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-11T19:00:16.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\main.cpp",
-              "RelativeDocumentMoniker": "massenger\\main.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C\u002B\u002B\\Courses\\massenger\\massenger\\main.cpp",
-              "RelativeToolTip": "massenger\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T18:58:33.911Z",
               "EditorCaption": ""
             }
           ]

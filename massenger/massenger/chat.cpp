@@ -1,50 +1,49 @@
 #include "chat.h"
 
-void Chat::registraion(const std::string& login, const std::string& password, const std::string& name)
+
+
+void Chat::sendMessage(std::shared_ptr<User> sender, std::shared_ptr<User> reciever, std::string text)
 {
-	for (const auto& user : users)
+	if (sender->getLogin() == reciever->getLogin())
 	{
-		if (login == user->getLogin())
-		{
-			std::cout << "Login already exists \n";
-			return;
-		}
+		std::cout << "You cannot send massage to yourself!" << std::endl;
+		return;
 	}
-	users.push_back(std::make_unique<User>(login, password, name));
+	message.push_back(std::make_shared<Message>(sender, text, reciever));
+}
+void Chat::getHistory(int senderIndex, int recieverIndex)
+{
+
+	std::cout << message[senderIndex]->get_sender()->getName() << ": " << message[senderIndex]->get_message() << message[recieverIndex]->get_reciever()->getName() << std::endl;
 }
 
-void Chat::logIn(const std::string login, const std::string password)
-{
-	bool found = false;
-	for (const auto& user : users)
-	{
-		if (login == user->getLogin() && user->validatePassword(password)){
-			std::cout << "Wellcome " << user ->getName()<< std::endl;
-			found = true;
-		}
-	}
-	if (!found)
-		std::cout << "Invalid password or login \n";
-}
 
-User& Chat::operator[](size_t index)
-{
-	if (index >= users.size()) {
-		throw std::out_of_range("Index out of range");
-	}
-	return *users[index];
-}
 
-const User& Chat::operator[](size_t index) const
-{
-	if (index >= users.size()) {
-		throw std::out_of_range("Index out of range");
-	}
-	return *users[index];
-}
 
-void Chat::print()
-{
-	Message message;
-	message.sendMessage(users[0]->getLogin(), users[1]->getLogin(), "Hello");
-}
+
+
+
+
+
+
+
+
+
+//void GroupChat::addParticipant(std::vector<std::shared_ptr<User>> users)
+//{
+//	for (const auto& user : users)
+//	{
+//		participants.push_back(user);
+//	}
+//}
+//
+//void LocalChat::sendMessage(std::shared_ptr<User> user_sender, std::shared_ptr<User> user_receiver, const std::string& text) {
+//	auto message = std::make_shared<Message>(user_sender, text, user_receiver);
+//	messages.push_back(message);
+//}
+//
+//const std::vector<std::shared_ptr<Message>>& LocalChat::getMessages() const
+//{
+//	return messages;
+//}
+
