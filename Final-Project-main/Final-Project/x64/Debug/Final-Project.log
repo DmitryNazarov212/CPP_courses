@@ -1,7 +1,5 @@
-﻿  main.cpp
-C:\ALL_PROJECTS\PROJ\VisualStudiaProj\Final-Project\main.cpp(12,5): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
-  UserStorage.cpp
+﻿  GlobalMessage.cpp
+  LMStorage.cpp
+  LocalMessage.cpp
   Создание кода...
-  Final-Project.vcxproj -> C:\ALL_PROJECTS\PROJ\VisualStudiaProj\Final-Project\x64\Debug\Final-Project.exe
-  "pwsh.exe" не является внутренней или внешней
-  командой, исполняемой программой или пакетным файлом.
+  Final-Project.vcxproj -> C:\Users\user\Desktop\C++\Courses\Final-Project-main\x64\Debug\Final-Project.exe

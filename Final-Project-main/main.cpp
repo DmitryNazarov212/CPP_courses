@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
 #include "User.h"
-#include "LMStorage.h"
 #include "UserStorage.h"
-#include "LocalMessage.h"
+#include "LMStorage.h"
 #include "GlobalMessage.h"
+#include "LocalMessage.h"
 using namespace std;
 
 int registration(string& name, string& login, string& password, UserStorage& userstorage)

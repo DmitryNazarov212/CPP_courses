@@ -127,10 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GlobalMessage.cpp" />
+    <ClCompile Include="LMStorage.cpp" />
+    <ClCompile Include="LocalMessage.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="UserStorage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GlobalMessage.h" />
+    <ClInclude Include="LMStorage.h" />
+    <ClInclude Include="LocalMessage.h" />
     <ClInclude Include="User.h" />
     <ClInclude Include="UserStorage.h" />
   </ItemGroup>
